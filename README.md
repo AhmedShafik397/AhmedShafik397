@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgaber&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgaber1" /> </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=4000&color=FF84A6&vCenter=true&width=650&height=100&lines=Welcome+On+My+GitHub+Profile%F0%9F%8C%B8..;Call+me+Eslam..;I'm+a+Software+Engineer..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=4000&color=FF84A6&vCenter=true&width=650&height=100&lines=Welcome+On+My+GitHub+Profile%F0%9F%8C%B8..;Call+me+Ahmed..;I'm+a+Software+Engineer..)](https://git.io/typing-svg)
 
 
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Angular, sql, Api**
 
-- 📫 How to reach me **eslamhatem523@gmail.com**
+- 📫 How to reach me **ahmedgabershafik@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1SRZQJ1OWjio-_2DOU4iI9mQXugXWftlc/view?usp=sharing](https://drive.google.com/file/d/1SRZQJ1OWjio-_2DOU4iI9mQXugXWftlc/view?usp=sharing">My Resume</a>
 
